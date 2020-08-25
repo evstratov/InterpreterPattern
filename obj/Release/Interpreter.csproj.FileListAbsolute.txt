@@ -1,0 +1,5 @@
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\Interpreter\bin\Release\Interpreter.exe.config
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\Interpreter\bin\Release\Interpreter.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\Interpreter\bin\Release\Interpreter.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\Interpreter\obj\Release\Interpreter.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\Interpreter\obj\Release\Interpreter.pdb
